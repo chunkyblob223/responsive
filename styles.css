@@ -1,0 +1,20 @@
+body{
+    background:lightsteelblue;
+}
+#title {
+    background-image: url(me.jpg);
+    background-size: 1500px 950px;
+    text-align: center;
+}
+
+.container{
+    text-align: left;
+}
+img{
+    width: 400px;
+}
+
+#title2{
+    text-align: center;
+    background: lightsteelblue;
+}
